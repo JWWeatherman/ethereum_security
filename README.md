@@ -1,4 +1,4 @@
-![alt text](http://res.cloudinary.com/loristeeth/image/upload/c_scale,w_800/v1510175135/tm_big_logo_wxtnbt.png "Bitcoin code vortex")
+![alt text](https://user-images.githubusercontent.com/32912678/35408498-5682d3bc-01dd-11e8-8e37-08abbde89976.png "Bitcoin code vortex")
 # Etherium Threat Model
 ### A cursory security review of the Ethereum cryptocurrency
 
