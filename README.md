@@ -25,6 +25,8 @@ design and it is unlikely that
 that the Ethereum project can be salvaged 
 more cheaply than starting from scratch.
 
+---
+
 #Findings Summary
 * Although Ethereum claims to be a “world supercomputer” 
 the features envisioned here 
