@@ -8,7 +8,7 @@
 The Ethereum cryptocurrency is one of the largest cryptocurrencies. 
 As of this writing (Q1 2018) it has a market cap in the billions.
 
-#Conclusion
+# Conclusion
 The Ethereum project doesn’t currently justify 
 a thorough security review because the security design flaws 
 are so glaring and fundamental that even a brief overview 
@@ -27,7 +27,7 @@ more cheaply than starting from scratch.
 
 ---
 
-#Findings Summary
+# Findings Summary
 * Although Ethereum claims to be a “world supercomputer” 
 the features envisioned here 
 need to be build on top of the digital asset that functions as money.
